@@ -117,7 +117,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             SizedBox(height: 16),
             Text(
-              'Welcome to Auto Update Demo',
+              'Welcome to Auto Update Demo11111',
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 8),
